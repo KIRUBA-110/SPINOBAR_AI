@@ -4,7 +4,6 @@
 
 ### A Low-Cost, Real-Time Pressure Monitoring System for Spinal Orthoses
 
-**Replacing guesswork with precision — Made in India 🇮🇳**
 
 ---
 
