@@ -298,6 +298,5 @@ spinobar/
 
 ---
 
-Made with ❤️ in India
 
 </div>
