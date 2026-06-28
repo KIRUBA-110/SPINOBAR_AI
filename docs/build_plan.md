@@ -1,4 +1,4 @@
-# 🚀 Spinobar — Complete Build Plan
+ 🚀 Spinobar — Complete Build Plan
 
 > **Goal:** Build a working prototype of Spinobar — a 16-sensor pressure monitoring system for spinal orthoses.
 
