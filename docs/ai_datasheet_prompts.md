@@ -37,7 +37,7 @@ Datasheet text follows:
 
 ---
 
-## 📄 Prompt Variants by Component Type
+## 📄 Prompt Variants by Component Type 
 
 ### For SENSORS (FSR, Load Cell, IMU, Temperature)
 

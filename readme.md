@@ -280,6 +280,12 @@ spinobar/
 | [AI Prompt Templates](docs/ai_datasheet_prompts.md) | Prompts to efficiently read component datasheets with AI |
 
 ---
+---
+## Link to Datasheet Notes
+
+  https://app.notion.com/p/Main-38d104541c9c80119c2ae9e8f73653d1?source=copy_link
+
+---
 
 ## 🙏 Acknowledgements
 
